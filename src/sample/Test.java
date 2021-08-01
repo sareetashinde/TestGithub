@@ -3,13 +3,12 @@ package sample;
 public class Test {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-try
-{
-	
-}catch (Exception handled e) {
-	// TODO: handle exception
-}
+		
+		System.out.println("All the best.......");
+		
+		
+		
+		
 	}
 
 }
