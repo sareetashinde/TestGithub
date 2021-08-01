@@ -7,7 +7,7 @@ public class Test {
 try
 {
 	
-}catch (Exception e) {
+}catch (Exception handled e) {
 	// TODO: handle exception
 }
 	}
