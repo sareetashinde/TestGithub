@@ -6,7 +6,7 @@ public class Test {
 		// TODO Auto-generated method stub
 try
 {
-	
+	System.out.println("hi........");
 }catch (Exception e) {
 	// TODO: handle exception
 }
