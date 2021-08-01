@@ -16,7 +16,7 @@ public class pattern8 {
 	
 	public static void main(String[] args) {
 		
-		int space=9;
+		int space=5;
 		int star=1;
 		
 		for (int i =1; i<=10;i++) {
