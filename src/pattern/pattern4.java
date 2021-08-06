@@ -17,7 +17,7 @@ public class pattern4 {
 		
 		int col=1;
 		
-		for (int i=1;i<=10; i++)
+		for (int i=1;i<=5; i++)
 		{
 			for (int j=1; j<=col; j++)
 			{
